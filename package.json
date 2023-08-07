@@ -1,5 +1,5 @@
 {
-  "name": "rsapp-task-template",
+  "name": "human-readable-number",
   "version": "1.0.0",
   "description": "Template for rsapp task",
   "main": "index.js",
@@ -23,7 +23,7 @@
   "dependencies": {
     "chai": "^4.2.0",
     "colors": "^1.4.0",
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "semver": "^6.3.0"
   }
 }
